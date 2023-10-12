@@ -1,9 +1,13 @@
-# Limnología con R, curso optativo vinculado al CILCAL2023
+# Limnología con R
 
-*Coordinadora: María Victoria Quiroga*
+![](https://raw.githubusercontent.com/Limno-con-R/libro/main/images/portada.png)
 
-*Docentes: Natalia Morandeira, María Llames, Sofía Caruso, Patricia García, Joaquín Cochero, Julieta Capeletti y María Victoria Quiroga*
+Esta publicación debe citarse como
 
-*Fecha: 27 y 28 de Julio, de 9 a 17hs*
+Quiroga M.V., Capeletti J., Carusso S., Cochero J., García P.E., Llames M.E., Morandeira N.S. 2023. Limnología con R. Universidad Nacional de La Plata. Facultad de Ciencias Naturales y Museo. La Plata, Argentina. https://limno-con-r.github.io/libro/
 
-En este taller los alumnos podrán responder diferentes preguntas limnológicas aplicando herramientas de análisis uni- y multivariados en el entorno R. Los participantes podrán utilizar las computadoras de la sala donde se dictará el taller y/o sus notebooks personales. Una semana antes del curso se indicarán los programas y paquetes que deben tener instalados.
+ISBN 978-950-34-2316-5
+
+Taller dictado en el marco del **IV Congreso Iberoamericano de Limnología - X Congreso Argentino de Limnología (IV CIL – CAL X)**, 27 y 28 de julio de 2023 .
+
+**Libro disponible en:** https://limno-con-r.github.io/libro/
